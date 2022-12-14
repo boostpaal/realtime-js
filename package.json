@@ -35,10 +35,10 @@
     "docs:json": "typedoc --json docs/v2/spec.json --excludeExternals src/index.ts"
   },
   "dependencies": {
-    "@types/phoenix": "^1.5.4",
     "websocket": "^1.0.34"
   },
   "devDependencies": {
+    "@types/phoenix": "^1.5.4",
     "@babel/runtime": "^7.9.2",
     "@types/websocket": "^1.0.3",
     "babel-preset-env": "^1.7.0",
